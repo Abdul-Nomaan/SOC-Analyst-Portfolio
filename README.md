@@ -40,6 +40,7 @@ MITRE ATT&CK
 Cyber Kill Chain
 
 🔬 Hands-On Labs
+
 Lab	Focus
 🔐 Brute-Force Detection	Authentication monitoring and failed login analysis
 👤 User Account Monitoring	Monitoring account creation and deletion
