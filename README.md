@@ -1,57 +1,100 @@
-#SOC-Analyst-Portfolio#
+🛡️ SOC Analyst Portfolio
 
-Cybersecurity and SOC Analyst portfolio documenting hands-on labs, SIEM detections, Windows security monitoring, log analysis, and incident investigations.
+Aspiring SOC Analyst | Cybersecurity | SIEM | Security Monitoring | Incident Investigation
 
-I am developing hands-on experience in SIEM monitoring, security log analysis, detection engineering, alert investigation, and incident response.
+Welcome to my cybersecurity portfolio.
 
-This repository documents my cybersecurity labs, projects, investigations, and practical learning.
+I am developing hands-on experience in Security Operations Center (SOC) monitoring, SIEM analysis, security log investigation, detection engineering, and incident response.
 
-Skills & Tools 
-SIEM : 
-Splunk — Log analysis, SPL searches, alerting, and investigations
+This repository documents my hands-on labs, security investigations, detection use cases, and practical cybersecurity learning.
+
+🧰 Skills & Tools
+
+🔎 SIEM & Security Monitoring
+Splunk — SIEM, SPL searches, log analysis, alerting, and investigations
 Wazuh — Security monitoring and hands-on SIEM practice
 Cortex — Basic knowledge and exposure
-Security & Investigation
-Incident Response
-MITRE ATT&CK
-Cyber Kill Chain
-Security Event Analysis
-Windows & Endpoint Monitoring
+
+🪟 Windows & Endpoint Security
+
 Windows Security Logs
 Sysmon
 Authentication Monitoring
 User Account Monitoring
 Application Logs
-Networking
+
+🌐 Networking
+
 TCP/IP Fundamentals
 Network Fundamentals
 Wireshark
-Detection & Monitoring
-SPL
+
+🚨 Detection & Investigation
+
+Security Event Analysis
 Detection Rules
-Alerting
-Log-Based Detection
+Alert Creation & Monitoring
+Incident Investigation
+Incident Response
+MITRE ATT&CK
+Cyber Kill Chain
 
-Projects : 
+🔬 Hands-On Labs
+Lab	Focus
+🔐 Brute-Force Detection	Authentication monitoring and failed login analysis
+👤 User Account Monitoring	Monitoring account creation and deletion
+🔎 Windows Log Analysis	Investigating Windows security activity
+🚨 SIEM Alerting	Creating and testing security alerts
+🖥️ Sysmon Monitoring	Monitoring endpoint and process activity
+🛡️ Security Investigations	Investigating suspicious security events
 
-Hands-on SOC labs and investigations will be added to this repository as I continue developing my practical cybersecurity skills.
+Detailed lab documentation will be added as I continue building my SOC Analyst experience.
 
-Current areas of practice include:
+📊 SIEM Practice
 
-Brute-force attack detection
-Windows authentication monitoring
-User account creation and deletion monitoring
-SIEM alert creation
-Security log analysis
-Sysmon monitoring
-Incident investigation
-Currently Learning
-SOC Operations
+My practical SIEM work includes:
+
+Log ingestion and analysis
+Searching and filtering security events
+SPL-based investigations
+Detection rule creation
+Alert configuration
+Authentication monitoring
+Investigating suspicious activity
+Building security use cases
+
+🧠 Currently Learning
+
+SOC Operations & Workflows
 Advanced SIEM Investigations
 Incident Response
 Network Security
+Threat Detection
 MITRE ATT&CK
-Threat Detection Techniques
-Contact : +91 9490782870
+Security Monitoring & Detection Engineering
 
-LinkedIn: Abdul Nomaan
+🎯 Career Goal
+
+My goal is to become a SOC Analyst and develop strong practical skills in:
+
+Detect → Investigate → Respond → Improve
+
+I am continuously building hands-on projects and documenting my learning through this portfolio.
+
+📁 Repository Structure
+SOC-Analyst-Portfolio/
+│
+├── 📂 Splunk/
+├── 📂 Wazuh/
+├── 📂 Windows-Security/
+├── 📂 Sysmon/
+├── 📂 Detection-Rules/
+├── 📂 Incident-Investigations/
+│
+└── 📄 README.md
+🔗 Connect With Me
+
+💼 LinkedIn:
+https://www.linkedin.com/in/abdul-nomaan-080217265/
+
+⭐ More projects and investigations will be added as I continue developing my SOC Analyst skills.
